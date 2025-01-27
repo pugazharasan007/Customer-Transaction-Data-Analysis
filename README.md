@@ -39,10 +39,10 @@ C0004        2         2.177    -0.576
 ```
 
 ## Repository Contents
-- `eda_analysis.ipynb`: Jupyter Notebook containing EDA and insights.
-- `lookalike_model.ipynb`: Implementation of the Lookalike Model.
-- `customer_segmentation.ipynb`: Clustering model and evaluation.
-- `Lookalike.csv`: Top 3 recommended customers for each of the first 20 customers.
+- `Pugazharasan_A_EDA.ipynb`: Jupyter Notebook containing EDA and insights.
+- `Pugazharasan_A_lookalike.ipynb`: Implementation of the Lookalike Model.
+- `Pugazharasan_A_customer_segmentation.ipynb`: Clustering model and evaluation.
+- `Pugazharasan_A_Lookalike.csv`: Top 3 recommended customers for each of the first 20 customers.
 
 ## How to Use
 1. Clone the repository.
